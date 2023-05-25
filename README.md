@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @mynameiskennith
-- 👀 I’m interested in Computer topics, Cyber Security, Designing
-- 🌱 I’m currently learning Computer Science and Engineering Pala
-- 💞️ I’m looking to collaborate on Computer science and cyber security
-- 📫 How to reach me @_the_kennith_joseph ig account
+👋 Hello there! I'm Kennith Joseph, a passionate Computer Science and Engineering student at St. Joseph's College of Engineering and Technology Palai. 💻
+
+I'm enthusiastic about web development and love exploring the world of coding in Java, C++, C, and Python. 🌐 My journey in the realm of software engineering has been incredibly exciting, and I'm constantly honing my skills to create efficient and innovative solutions.
+
+In addition to programming, I also have hands-on experience in Adobe Illustrator, Figma, and Photoshop 🎨, which allows me to bring creativity and design flair to my projects.
+
+I'm eager to collaborate, learn, and contribute to the fascinating world of technology. Feel free to explore my repositories and connect with me. Let's build something amazing together! ✨
 
 <!---
 mynameiskennith/mynameiskennith is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
