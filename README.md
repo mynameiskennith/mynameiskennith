@@ -15,8 +15,9 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mynameiskennith&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote" />
+</p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mynameiskennith&icon=3&color=0)](https://visitcount.itsvg.in)
