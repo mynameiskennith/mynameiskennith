@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a presentation training platform.<br>🤝 I’m looking for help with ML and Ai<br>🌱 I’m currently learning ML <br>💬 Ask me about Btech you won't regret it.<br>
+🔭 I’m currently working on a presentation training platform using Next.js and FastAPI.<br>🤝 I’m looking for help with ML and Ai<br>🌱 I’m currently learning ML <br>💬 Ask me about Btech you won't regret it.<br>
 
 
 ## 🌐 Socials:
